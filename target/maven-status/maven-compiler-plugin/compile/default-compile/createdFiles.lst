@@ -1,0 +1,16 @@
+com/editor/datalayer/api/DataStore.class
+com/editor/server/api/EditorService.class
+com/editor/datamodel/DocumentRep.class
+com/editor/datalayer/FileDataStore.class
+com/editor/server/impl/EditorServiceImpl.class
+com/editor/datamodel/Document.class
+com/editor/datamodel/Revision.class
+com/editor/client/EditorClient.class
+com/editor/utils/diff/DiffUtility.class
+com/editor/datamodel/DiffMatchPatch.class
+com/editor/datamodel/DiffMatchPatch$1.class
+com/editor/datamodel/DiffMatchPatch$Operation.class
+com/editor/datamodel/DiffMatchPatch$Patch.class
+com/editor/AppRunner.class
+com/editor/datamodel/DiffMatchPatch$LinesToCharsResult.class
+com/editor/datamodel/DiffMatchPatch$Diff.class
